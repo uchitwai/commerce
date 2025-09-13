@@ -1,3 +1,5 @@
+curl "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+     -H "Authorization: Bearer zTUXLnarOsi8u7ElE2TZooYwKD6
 import { Carousel } from 'components/carousel';
 import { ThreeItemGrid } from 'components/grid/three-items';
 import Footer from 'components/layout/footer';
